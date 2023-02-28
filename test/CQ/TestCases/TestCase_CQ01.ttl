@@ -1,6 +1,6 @@
 @prefix owlunit: <https://w3id.org/OWLunit/ontology/> .
-@prefix td: <https://raw.githubusercontent.com/visualsense/test/cq/toydataset/> .
-@prefix tc: <https://raw.githubusercontent.com/visualsense/test/cq/testcase/> .
+@prefix td: <https://raw.githubusercontent.com/FiorelaCiroku/visualsense/main/test/CQ/ToyDataSets/> .
+@prefix tc: <https://raw.githubusercontent.com/FiorelaCiroku/visualsense/main/test/CQ/TestCases/> .
 @prefix visualsense: <https://w3id.org/visualsense/ontology> .
 
 tc:TestCase_CQ01.ttl a owlunit:CompetencyQuestionVerification ;
