@@ -1,5 +1,5 @@
 @prefix visualsense: <https://raw.githubusercontent.com/delfimpandiani/visualsense/main/visualsense.owl> . 
 
-<http://w3id.org/visualsense/resource/ImageObject/image_object_2384656> a visualsense:ImageObject .
-<https://w3id.org/visualsense/resource/DepictedObject/depicted_object_691251> a visualsense:DepictedObject ;
-    visualsense:isDepictedIn <http://w3id.org/visualsense/resource/ImageObject/image_object_2384656> .
+<http://w3id.org/visualsense/resource/ImageObject/image_object_2411621> a visualsense:ImageObject .
+<http://w3id.org/visualsense/resource/DepictedObject/depicted_object_1079084> a visualsense:DepictedObject ;
+    visualsense:isDepictedIn <http://w3id.org/visualsense/resource/ImageObject/image_object_2411621> .
